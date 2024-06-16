@@ -7,7 +7,7 @@ const CONFIG = {
     min1: "mini1.jpg",
     min2: "min2.jpg",
     min3: "min3.jpg",
-    min4: "max4.webp",
+    min4: "max4.jpg",
     min5: "min5.jpg",
     min6: "min6.jpg",
 
