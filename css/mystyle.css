@@ -224,6 +224,7 @@ li {
     .box {
         width: 150px;
         height: 150px;
+        margin: 280px auto;
     }
 
     .box:hover ol li:nth-child(1),
