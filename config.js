@@ -2,6 +2,7 @@ const CONFIG = {
     titleWeb: "I LOVE YOU Krisha",
 
     background: "background.jpg",
+    background2:"background2.jpg",
 
     min1: "mini1.jpg",
     min2: "min2.jpg",
